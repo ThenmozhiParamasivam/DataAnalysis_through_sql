@@ -2,16 +2,17 @@
 To demonstrate the ability to extract, manipulate, and analyze structured data using SQL.
 
 🧰 Tools Used
-Platform: SQLite environment
+Database Format: CSV file uploaded and queried using SQLite
 
-Database Format: CSV file uploaded and processed using SQLite
+Local Tool Used:
+SQLite: Install DB Browser for SQLite – a lightweight and easy-to-use tool for database browsing and query execution.
 
-Editor: SQL queries executed and tested within the platform environment
+File Format: .csv file converted to SQLite table
 
 📂 Dataset
 Source: data.csv
 
-Description: An e-commerce transactional dataset containing columns such as InvoiceNo, InvoiceDate, CustomerID, Quantity, UnitPrice, Country.
+Description: An e-commerce transactional dataset containing fields like InvoiceNo, InvoiceDate, CustomerID, Quantity, UnitPrice, Country.
 
 Output Screenshots: Attached separately.
 
