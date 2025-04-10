@@ -15,8 +15,6 @@ Description: An e-commerce transactional dataset containing columns such as Invo
 
 Output Screenshots: Attached separately.
 
-README.md: This document describing the work and results.
-
 💡 Outcome
 Through this task, I gained hands-on experience with SQL query building, data grouping, subqueries, optimization, and creating analytical views. I also became comfortable working with online platforms for SQL development.
 
